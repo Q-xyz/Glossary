@@ -1,4 +1,4 @@
-# Glossary
+# Qxyz Glossary
 A Glossary of terms used across the Q applications
 
 **Actions** — the steps or processes involved in executing a task or achieving a goal. For example, in the context of decentralized finance (DeFi), an action might refer to a user taking a specific action on a decentralized platform, such as approving tokens to be used in a transaction, or minting a non-fungible token (NFT).
